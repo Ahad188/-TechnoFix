@@ -14,7 +14,7 @@ export const Banner = () => {
             Take ideas from better to best
           </h2>
           <p className="text-[#050038] opacity-[0.72] text-[18px] leading-[24px] mt-[29px]">
-            Miro is your team's visual platform to connect, collaborate, and create — together.
+            Miro is your teams visual platform to connect, collaborate, and create — together.
           </p>
           <div className="mt-[30px]">
             <input
@@ -25,7 +25,7 @@ export const Banner = () => {
 
             <a
               href="#"
-              className="flex items-center gap-5 mt-[20px] rounded-[24px] bg-[#4262FF] ps-[30%] h-[51px] text-white"
+              className="flex items-center gap-5 mt-[20px] rounded-[24px] bg-[#4262FF] ps-[30%] h-[51px] text-white cursor-pointer"
             >
               Sing up Free <FaLongArrowAltRight />
             </a>
@@ -33,8 +33,8 @@ export const Banner = () => {
               {" "}
               Collaborate with your team within minutes
             </p>
-            <div className="mt-[40px] bg-[#F5F5F7] h-[60px] rounded-[8px] p-5 flex gap-4 ">
-             <div className="d">
+            <div className="mt-[40px] bg-[#F5F5F7] h-[60px] rounded-[8px] p-5 flex gap-10 cursor-pointer">
+             <div className="">
              <ul className="flex text-orange-400 text-center">
                 <FaStar />
                 <FaStar />
