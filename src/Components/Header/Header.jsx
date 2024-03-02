@@ -69,7 +69,7 @@ export const Header = () => {
       <li ><a className="text-[#050038] text-[16px] font-[400] flex items-center gap-3" href="#"><TbWorld /> EN</a></li>
       <li ><a className="text-[#050038] text-[16px] font-[400]" href="#">Contact Sales</a></li>
       <li ><a className="text-[#050038] text-[16px] font-[400]" href="#">Login</a></li>
-   <li> <a className="flex items-center gap-5 rounded-[24px] pt-[17px] pr-[22px] pb-[17px] pl-[22px] bg-[#4262FF;] text-white">Sing up Free <FaLongArrowAltRight /></a></li>
+   <li> <a href="#" className="flex items-center gap-2 md:gap-5 rounded-[24px] p-2 md:pt-[17px] md:pr-[22px] md:pb-[17px] md:pl-[22px] bg-[#4262FF] md:h-[50px] text-white">Sing up Free <FaLongArrowAltRight /></a></li>
  
     </ul>
   </div>
