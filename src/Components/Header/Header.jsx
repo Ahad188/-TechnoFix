@@ -1,5 +1,6 @@
 import { TbWorld } from "react-icons/tb";
 import { FaLongArrowAltRight } from "react-icons/fa";
+import logo from '../../assets/Vector.png'
 
 export const Header = () => {
   return (
@@ -34,7 +35,7 @@ export const Header = () => {
       </ul>
     </div>
     <a className="text-3xl hidden md:block  "> 
-    <img src="/src/assets/Vector.png"   alt="logo" />
+    <img src={logo}   alt="logo" />
     </a>
     <div className="navbar-center hidden lg:flex">
     <ul className="menu menu-horizontal px-1">
