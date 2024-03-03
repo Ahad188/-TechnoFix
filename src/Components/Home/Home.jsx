@@ -1,4 +1,5 @@
 import { Banner } from "../Banner/Banner";
+import { BuiltWay } from "../BuiltWay/BuiltWay";
 import { Collaborate } from "../Collaborate/Collaborate";
 import { Connect } from "../Connect/Connect";
 import { Header } from "../Header/Header";
@@ -20,6 +21,7 @@ const Home = () => {
            <WorkTogther></WorkTogther>
            <Connect></Connect>
            <Ways></Ways>
+            <BuiltWay></BuiltWay>
           </div>
      );
 };

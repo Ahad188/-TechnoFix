@@ -6,7 +6,7 @@ export const Connect = () => {
   return (
      <div className="mt-[90px] md:w-[1280px] mx-auto m-h[284px] ">
           <div className="md:flex md:justify-between items-center">
-          <div className="px-[20px] border border-yellow-500">
+          <div className="px-[20px]">
                     <img src={workp} alt="work-img" />
                </div>
                <div className="px-[20px]">
