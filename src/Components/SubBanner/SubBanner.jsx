@@ -5,9 +5,9 @@ import b4 from "../../assets/b4.png";
 import b5 from "../../assets/b5.png";
 export const SubBanner = () => {
   return (
-    <div className="mt-[52px] md:w-[1280px] mx-auto m-h[284px] text-center">
+    <div className="mt-[60px] md:w-[1280px] mx-auto m-h[284px] text-center">
       <h5
-        className="font-[400] text-[18px] leading-[24px] text-[#RRGGBBAA
+        className="font-[400] text-[18px] leading-[24px] mt-[54px] text-[#RRGGBBAA
 ]"
       >
         Trusted by 45M+ users
