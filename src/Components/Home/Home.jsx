@@ -1,4 +1,5 @@
 import { Banner } from "../Banner/Banner";
+import { BuiltKids } from "../BuiltKids/BuiltKids";
 import { BuiltWay } from "../BuiltWay/BuiltWay";
 import { Collaborate } from "../Collaborate/Collaborate";
 import { Connect } from "../Connect/Connect";
@@ -22,6 +23,7 @@ const Home = () => {
            <Connect></Connect>
            <Ways></Ways>
             <BuiltWay></BuiltWay>
+            <BuiltKids></BuiltKids>
           </div>
      );
 };
