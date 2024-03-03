@@ -6,7 +6,7 @@ import built from '../../assets/built2.png'
 export const BuiltKids = () => {
   return (
      
-     <div className="max-w-[1280px] mx-auto mt-12 px-6">
+     <div className="max-w-[1280px] mx-auto mt-[100px] px-6">
      <h3 className="font-bold text-4xl md:text-5xl text-[#050038] leading-[1.4]">Built for all kinds of teams</h3>
      <ul className="flex flex-wrap gap-6 md:justify-between items-center mt-4 md:mt-8">
         
