@@ -13,29 +13,29 @@ export const SubBanner = () => {
       </h5>
 
       <ul className="grid grid-cols-2 md:grid-cols-5 gap-[30px] mt-[45px] px-10">
-        <li className="hover:shadow-2xl ps-5">
+        <li className="sh ps-5">
           <a href="#">
             <img src={b1} alt="brand-img" />
           </a>
         </li>
-        <li className="hover:shadow-2xl ps-5">
+        <li className="sh ps-5">
           <a href="#">
             <img src={b2} alt="brand-img" />
           </a>
         </li>
-        <li className="hover:shadow-2xl ps-5">
+        <li className="sh ps-5">
           <a href="#">
             <img src={b3} alt="brand-img" />
           </a>
         </li>
-        <li className="hover:shadow-2xl ps-5">
+        <li className="sh ps-5">
           <a href="#">
             <img src={b4} alt="brand-img" />
           </a>
         </li>
-        <li className="hover:shadow-2xl ps-5">
+        <li className="sh ps-5">
           <a href="#">
-            <img src={b5} alt="brand-img" />
+            <img className="" src={b5} alt="brand-img" />
           </a>
         </li>
       </ul>
