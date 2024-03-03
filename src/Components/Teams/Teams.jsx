@@ -7,7 +7,7 @@ import t33 from "../../assets/t33.png";
 
 export default function Teams() {
   return (
-    <div className="mt-[60px] md:w-[1280px] mx-auto m-h[284px] ">
+    <div className="mt-[60px] md:w-[1280px] mx-auto m-h[284px]">
       <div className="relative mb-[80px] text-center">
         <h2 className="text-[48px] leading-[56px] font-[700] text-[#050038]">
           Loved by the world's best teams
@@ -48,16 +48,15 @@ export default function Teams() {
             className="text-[18px] text-[#050038
 ] font-[400] leading-[24px] mt-[30px] w-[291px]"
           >
-            “Miro helps solve one of the major gaps in product design: how to manage tasks across product designers whose projects are in different tools.”
+            “Miro helps solve one of the major gaps in product design: how to manage tasks across
+            product designers whose projects are in different tools.”
           </p>
           <div className="mt-[80px] flex gap-5">
             <img src={t22} alt="t22" />
             <div>
-              <li className="text-[14px] leading-[20px] font-[400] text-[#050038]">
-                Roxanne Mustafa
-              </li>
+              <li className="text-[14px] leading-[20px] font-[400] text-[#050038]">Jane Ashley</li>
               <li className="text-[14px] leading-[20px] font-[400] text-[#050038] ">
-                Design Team Lead at VMware
+                Head of Design at DocuSign
               </li>
             </div>
           </div>
@@ -68,16 +67,15 @@ export default function Teams() {
             className="text-[18px] text-[#050038
 ] font-[400] leading-[24px] mt-[30px] w-[291px]"
           >
-            “As we used Miro we moved from skepticism to belief to innovation, and now we have a tool that’s at the core of what we do and will continue to extend into the future.”
+            “As we used Miro we moved from skepticism to belief to innovation, and now we have a
+            tool that’s at the core of what we do and will continue to extend into the future.”
           </p>
           <div className="mt-[80px] flex gap-5">
             <img src={t33} alt="t33" />
             <div>
-              <li className="text-[14px] leading-[20px] font-[400] text-[#050038]">
-                Roxanne Mustafa
-              </li>
+              <li className="text-[14px] leading-[20px] font-[400] text-[#050038]">Laura Baird</li>
               <li className="text-[14px] leading-[20px] font-[400] text-[#050038] ">
-                Design Team Lead at VMware
+                Associate Design Director at frog
               </li>
             </div>
           </div>

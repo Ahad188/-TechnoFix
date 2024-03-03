@@ -3,6 +3,7 @@ import { BuiltKids } from "../BuiltKids/BuiltKids";
 import { BuiltWay } from "../BuiltWay/BuiltWay";
 import { Collaborate } from "../Collaborate/Collaborate";
 import { Connect } from "../Connect/Connect";
+import { Footer } from "../Footer/Footer";
 import { Header } from "../Header/Header";
 import { SubBanner } from "../SubBanner/SubBanner";
 import Teams from "../Teams/Teams";
@@ -24,8 +25,9 @@ const Home = () => {
            <Connect></Connect>
            <Ways></Ways>
             <BuiltWay></BuiltWay>
-            <BuiltKids></BuiltKids>
+            <BuiltKids></BuiltKids> 
             <Teams></Teams>
+            <Footer></Footer>
           </div>
      );
 };
