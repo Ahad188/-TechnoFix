@@ -22,12 +22,9 @@ export const BuiltKids = () => {
                 <div className=" md:p-4  md:w-[500px]">
                    
                     <ul className=" ms-5 mt-[40px]">
-                         <li className="flex gap-5 items-center text-[18px] font-[400] leading-[24px] text-[#RRGGBBAA
-] my-3"> <FaCheck />Build low-fi wireframes</li>
-                         <li className="flex gap-5 items-center text-[18px] font-[400] leading-[24px] text-[#RRGGBBAA
-] my-3"> <FaCheck />Involve stakeholders in the <br /> design process</li>
-                         <li className="flex gap-5 items-center text-[18px] font-[400] leading-[24px] text-[#RRGGBBAA
-] my-3"> <FaCheck />Run engaging <br /> design workshops</li>
+                         <li className="flex gap-5 items-center text-[18px] font-[400] leading-[24px]text-[#050038] my-3"> <FaCheck />Build low-fi wireframes</li>
+                         <li className="flex gap-5 items-center text-[18px] font-[400] leading-[24px]text-[#050038] my-3"> <FaCheck />Involve stakeholders in the <br /> design process</li>
+                         <li className="flex gap-5 items-center text-[18px] font-[400] leading-[24px]text-[#050038] my-3"> <FaCheck />Run engaging <br /> design workshops</li>
                     </ul>
  
                 <div className="flex items-end gap-4 ps-5">

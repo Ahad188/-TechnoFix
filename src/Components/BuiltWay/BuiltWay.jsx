@@ -19,8 +19,7 @@ export const BuiltWay = () => {
           <div className="md:flex justify-between gap-[40px] mt-[30px]">
                <div className=" md:p-4  md:w-[500px]">
                     <h4 className='text-[#050038] leading-[24px] text-[18px] font-[400] pt-3 ps-5'>Brainstorming</h4>
-                    <p className='text-[18px] w-[330px] mt-[30px] pb-[30px] font-[400] leading-[24px] text-[#RRGGBBAA
-] ps-5'>Unleash creative ideas and build on them with the help of sticky notes, images, mind maps, videos, drawing capabilities — the list goes on.</p>
+                    <p className='text-[18px] w-[330px] mt-[30px] pb-[30px] font-[400] leading-[24px]text-[#050038] ps-5'>Unleash creative ideas and build on them with the help of sticky notes, images, mind maps, videos, drawing capabilities — the list goes on.</p>
 
                <div className="flex items-end gap-4 ps-5">
                    <a href="#" className='mt-[38px] border-b border-solid border-[#4262FF]  items-center gap-3 inline-block'>Learn more </a>

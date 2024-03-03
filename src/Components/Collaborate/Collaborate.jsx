@@ -15,8 +15,7 @@ export const Collaborate = () => {
         <ul className="pt-[23px] pr-[22px] pb-[44px] ps-[24px] hover:shadow-2xl text-left">
           <li className="text-[#050038] text-[24px] leading-[28px] font-[700] ">Free forever</li>
           <p
-            className=" w-[313px]font-[400] text-[18px] leading-[24px] text-[#RRGGBBAA
-] mt-3"
+            className=" w-[313px]font-[400] text-[18px] leading-[24px]text-[#050038] mt-3"
           >
             Our free plan gives you unlimited team members, 3 boards, and 300+ expert- <br />
             made templates. Signing up with your <br /> work email lets you bring in your team{" "}
@@ -32,8 +31,7 @@ export const Collaborate = () => {
             Easy integrations
           </li>
           <p
-            className=" w-[313px]font-[400] text-[18px] leading-[24px] text-[#RRGGBBAA
-] mt-3"
+            className=" w-[313px]font-[400] text-[18px] leading-[24px]text-[#050038] mt-3"
           >
             Miro has 100+ powerful integrations <br /> with tools you already use like G Suite,{" "}
             <br />
@@ -47,8 +45,7 @@ export const Collaborate = () => {
         <ul className="pt-[23px] pr-[22px] pb-[44px] ps-[24px] hover:shadow-2xl text-left ">
           <li className="text-[#050038] text-[24px] leading-[28px] font-[700]">Security first</li>
           <p
-            className=" w-[313px]font-[400] text-[18px] leading-[24px] text-[#RRGGBBAA
-] mt-3"
+            className=" w-[313px]font-[400] text-[18px] leading-[24px]text-[#050038] mt-3"
           >
             We treat your data like you would — <br /> with the utmost care. We follow <br />
             industry-leading security standards and <br /> give you tools to protect intellectual{" "}

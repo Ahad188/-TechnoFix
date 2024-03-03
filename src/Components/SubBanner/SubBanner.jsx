@@ -7,8 +7,7 @@ export const SubBanner = () => {
   return (
     <div className="mt-[60px] md:w-[1280px] mx-auto m-h[284px] text-center">
       <h5
-        className="font-[400] text-[18px] leading-[24px] mt-[54px] text-[#RRGGBBAA
-]"
+        className="font-[400] text-[18px] leading-[24px] mt-[54px]text-[#050038]"
       >
         Trusted by 45M+ users
       </h5>
