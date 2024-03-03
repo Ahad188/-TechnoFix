@@ -9,7 +9,7 @@ This web site is built in a very simple way using Tailwind CSS. Tailwind CSS wit
 
 #The Frame work that have been used to make the site.
 
-  Tailwind : https://tailwindcss.com/docs/installation/play-cdn   
+  Tailwind : https://tailwindcss.com/docs/installation/play-cdn      
 Daisyui tailwind : https://daisyui.com/docs/install/
 
  
@@ -37,6 +37,6 @@ ___
 
 #Live side 
 ___
-live link :  
+live link :  https://aesthetic-quokka-3e846f.netlify.app/
 
 
